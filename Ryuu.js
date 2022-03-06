@@ -322,9 +322,9 @@ fs.writeFileSync('./lib/rpg/healt.json', JSON.stringify(_healt))
 
 //Mess Dll
 mess = {
-limit: 'Limit Lu Abis Nyet', 
+limit: 'Limit Lu Abis Ngentod', 
 wait: 'Tunggu Sedang Di Proses',
-eror: 'Terjadi Kesalahan',
+eror: 'Terjadi Kesalahan Ngentod',
 success: 'Success️',
 error: {
 stick: 'Khusus Sticker',
